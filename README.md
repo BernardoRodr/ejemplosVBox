@@ -23,11 +23,18 @@ hello-view.fxml: Archivo de diseño en FXML que define la estructura visual de l
 Instrucciones de Uso
 
 Clona el repositorio y abre el proyecto en tu entorno de desarrollo (IDE) compatible con JavaFX.
+
 Ejecuta la clase HelloApplication para iniciar la aplicación.
+
 Interactúa con la interfaz utilizando los botones disponibles:
-Añadir Texto: Añade una etiqueta al VBox dinámico.
-Limpiar VBox: Vacía el VBox y reinicia el contador de etiquetas.
-Aumentar/Disminuir Espaciado: Ajusta el espaciado entre los elementos.
+
+
+Añadir Texto:
+Añade una etiqueta al VBox dinámico.
+Limpiar VBox:
+Vacía el VBox y reinicia el contador de etiquetas.
+Aumentar/Disminuir Espaciado:
+Ajusta el espaciado entre los elementos.
 
 
 Recursos y Referencias
